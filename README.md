@@ -1,5 +1,5 @@
 # moodlighting
-This is the "mood lighting" script for esp32 and neopixel.
+This is the "mood lighting" script for ESP and neopixel.
 
 The script works on a WiFi enabled ESP32 controlling some neopixel leds. 
 
